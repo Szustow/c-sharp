@@ -1,0 +1,11 @@
+C:\Users\Даниил\source\repos\Estimate\Estimate\bin\Debug\Estimate.exe.config
+C:\Users\Даниил\source\repos\Estimate\Estimate\bin\Debug\Estimate.exe
+C:\Users\Даниил\source\repos\Estimate\Estimate\bin\Debug\Estimate.pdb
+C:\Users\Даниил\source\repos\Estimate\Estimate\obj\Debug\Estimate.csproj.AssemblyReference.cache
+C:\Users\Даниил\source\repos\Estimate\Estimate\obj\Debug\Estimate.Form1.resources
+C:\Users\Даниил\source\repos\Estimate\Estimate\obj\Debug\Estimate.Properties.Resources.resources
+C:\Users\Даниил\source\repos\Estimate\Estimate\obj\Debug\Estimate.csproj.GenerateResource.cache
+C:\Users\Даниил\source\repos\Estimate\Estimate\obj\Debug\Estimate.csproj.CoreCompileInputs.cache
+C:\Users\Даниил\source\repos\Estimate\Estimate\obj\Debug\Estimate.exe
+C:\Users\Даниил\source\repos\Estimate\Estimate\obj\Debug\Estimate.pdb
+C:\Users\Даниил\source\repos\Estimate\Estimate\obj\Debug\Estimate.Form2.resources

@@ -1,0 +1,13 @@
+C:\Users\Даниил\source\repos\FetchWeather\FetchWeather\bin\Debug\FetchWeather.exe.config
+C:\Users\Даниил\source\repos\FetchWeather\FetchWeather\bin\Debug\FetchWeather.exe
+C:\Users\Даниил\source\repos\FetchWeather\FetchWeather\bin\Debug\FetchWeather.pdb
+C:\Users\Даниил\source\repos\FetchWeather\FetchWeather\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Даниил\source\repos\FetchWeather\FetchWeather\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Даниил\source\repos\FetchWeather\FetchWeather\obj\Debug\FetchWeather.csproj.AssemblyReference.cache
+C:\Users\Даниил\source\repos\FetchWeather\FetchWeather\obj\Debug\FetchWeather.Form1.resources
+C:\Users\Даниил\source\repos\FetchWeather\FetchWeather\obj\Debug\FetchWeather.Properties.Resources.resources
+C:\Users\Даниил\source\repos\FetchWeather\FetchWeather\obj\Debug\FetchWeather.csproj.GenerateResource.cache
+C:\Users\Даниил\source\repos\FetchWeather\FetchWeather\obj\Debug\FetchWeather.csproj.CoreCompileInputs.cache
+C:\Users\Даниил\source\repos\FetchWeather\FetchWeather\obj\Debug\FetchWeather.csproj.CopyComplete
+C:\Users\Даниил\source\repos\FetchWeather\FetchWeather\obj\Debug\FetchWeather.exe
+C:\Users\Даниил\source\repos\FetchWeather\FetchWeather\obj\Debug\FetchWeather.pdb
